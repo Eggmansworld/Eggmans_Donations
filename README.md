@@ -18,7 +18,7 @@ Thank you. Truly.
 
 Every project I share is made in spare hours: late nights, weekends, and a lot of
 "just one more fix." When someone stops by and leaves a coffee on
-[Buy Me a Coffee](https://buymeacoffee.com/), it means more than the dollar amount
+[Buy Me a Coffee](https://buymeacoffee.com/eggmansworld), it means more than the dollar amount
 ever could. It says *this was useful to me*, *keep going*, and *I see the work you're doing*.
 
 You didn't have to. Nobody asked you to. You chose to be generous to a stranger on the
