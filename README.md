@@ -83,8 +83,8 @@ honest record kept in good faith.
 |:-:|:-----|-------:|
 | ☕ | **BMAC donations received** (Nov 2025 – Oct 2026) | **$66.00 USD** |
 | 🏦 | **BMAC withdrawal, after fees** | **$82.27 CAD** <br><sub>(~$58.63 USD @ 1 CAD ≈ 0.7127 USD)</sub> |
-| 🏛️ | **Donation to archive.org** | **$56.00 USD** <br><sub>+ $1.56 processing fees</sub> |
-| ✅ | **Total given to archive.org** | **$57.56 USD** |
+| 🏛️ | **Donation to archive.org** | **$56.00 USD** <br><sub>+ $1.52 processing fees</sub> |
+| ✅ | **Total given to archive.org** | **$57.52 USD** |
 
 <sub>💬 *Thank you to every supporter who made this first year possible. This one's for you.*</sub>
 
@@ -115,8 +115,8 @@ below, and bump the "years reported" badge at the top.
 
 | Year Ending | BMAC Received (USD) | Withdrawn (CAD) | ≈ Withdrawn (USD) | Given to archive.org (USD) |
 |:-----------:|--------------------:|----------------:|------------------:|---------------------------:|
-| Oct 2026 | $66.00 | $82.27 | $58.63 | $57.56 |
-| **Total** | **$66.00** | **$82.27** | **$58.63** | **$57.56** |
+| Oct 2026 | $66.00 | $82.27 | $58.63 | $57.52 |
+| **Total** | **$66.00** | **$82.27** | **$58.63** | **$57.52** |
 
 A machine-readable copy of these figures lives in [`ledger.csv`](ledger.csv).
 
