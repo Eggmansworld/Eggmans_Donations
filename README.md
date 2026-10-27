@@ -28,6 +28,8 @@ anonymous: **you are appreciated, you are remembered, and you made a difference.
 
 This repository exists so that your generosity keeps going after it reaches me.
 
+<img width="1671" height="941" alt="Internet_Archive_thankyou" src="https://github.com/user-attachments/assets/0a783353-87c6-48a0-8b75-a99f3383f813" />
+
 ---
 
 ## 🏛️ Why the Internet Archive?
